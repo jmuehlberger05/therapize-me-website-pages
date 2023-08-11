@@ -1,0 +1,77 @@
+{
+  "title": "Über TherapizeMe",
+  "description": "TherapizeMe startet im Frühling 2023 als Diplomarbeit von Jakob Mühlberger an der HTL Leonding.",
+  "heroButtons": [
+    {
+      "label": "Portfolio",
+      "href": "https://j4kob-muehlberger.studio",
+      "target": "_blank"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Warum TherapizeMe?",
+      "id": "section-title",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "TherapizeMe wurde im Frühling 2023 als Diplomarbeit von Jakob Mühlberger an der HTL Leonding ins Leben gerufen. Was als akademisches Projekt begann, entwickelte sich rasch zu einer revolutionären Web-App, die das Verhältnis zwischen Therapeuten und Patienten neu definiert."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unser Ziel war es, die Kommunikation und den Informationsfluss in der Therapiebranche zu verbessern und gleichzeitig die individuellen Anforderungen jedes Therapeuten zu berücksichtigen."
+        },
+        { "type": "subtitle", "text": "Subtitle" },
+        {
+          "type": "cards",
+          "cards": [
+            {
+              "title": "Card Title 1",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+            },
+            {
+              "title": "Card Title 2",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+            },
+            {
+              "title": "Card Title 3",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "HTL Leonding",
+      "id": "another-section-title",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste fugit cupiditate odit, sit pariatur ipsam obcaecati dicta magni cumque culpa laboriosam aspernatur tenetur nemo ex omnis hic deleniti ab beatae?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Inventore, illo sed unde officia nostrum asperiores nihil placeat cumque iusto tenetur eius, voluptas temporibus nesciunt voluptatem, odio consequatur assumenda ipsam tempore eos ea cum. Aliquam doloremque iste atque laborum?"
+        },
+        { "type": "subtitle", "text": "Subtitle" },
+        {
+          "type": "cards",
+          "cards": [
+            {
+              "title": "Card Title 1",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+            },
+            {
+              "title": "Card Title 2",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+            },
+            {
+              "title": "Card Title 3",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

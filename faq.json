@@ -1,0 +1,74 @@
+{
+  "title": "FAQ",
+  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum eveniet praesentium, doloribus ullam libero hic aut itaque soluta et nesciunt.",
+  "heroButtons": [
+    { "label": "Button 1", "href": "/" },
+    { "label": "Button 2", "href": "/" }
+  ],
+  "sections": [
+    {
+      "title": "FAQ",
+      "id": "section-title",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste fugit cupiditate odit, sit pariatur ipsam obcaecati dicta magni cumque culpa laboriosam aspernatur tenetur nemo ex omnis hic deleniti ab beatae?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Inventore, illo sed unde officia nostrum asperiores nihil placeat cumque iusto tenetur eius, voluptas temporibus nesciunt voluptatem, odio consequatur assumenda ipsam tempore eos ea cum. Aliquam doloremque iste atque laborum?"
+        },
+        { "type": "subtitle", "text": "Subtitle" },
+        {
+          "type": "cards",
+          "cards": [
+            {
+              "title": "Card Title 1",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+            },
+            {
+              "title": "Card Title 2",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+            },
+            {
+              "title": "Card Title 3",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Another Section Title",
+      "id": "another-section-title",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste fugit cupiditate odit, sit pariatur ipsam obcaecati dicta magni cumque culpa laboriosam aspernatur tenetur nemo ex omnis hic deleniti ab beatae?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Inventore, illo sed unde officia nostrum asperiores nihil placeat cumque iusto tenetur eius, voluptas temporibus nesciunt voluptatem, odio consequatur assumenda ipsam tempore eos ea cum. Aliquam doloremque iste atque laborum?"
+        },
+        { "type": "subtitle", "text": "Subtitle" },
+        {
+          "type": "cards",
+          "cards": [
+            {
+              "title": "Card Title 1",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+            },
+            {
+              "title": "Card Title 2",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+            },
+            {
+              "title": "Card Title 3",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
