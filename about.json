@@ -11,63 +11,31 @@
   "sections": [
     {
       "title": "Warum TherapizeMe?",
-      "id": "section-title",
+      "id": "warum-therapizeme",
       "content": [
         {
           "type": "paragraph",
-          "text": "TherapizeMe wurde im Frühling 2023 als Diplomarbeit von Jakob Mühlberger an der HTL Leonding ins Leben gerufen. Was als akademisches Projekt begann, entwickelte sich rasch zu einer revolutionären Web-App, die das Verhältnis zwischen Therapeuten und Patienten neu definiert."
+          "text": "TherpizeMe startet im Frühling 2023 als Diplomarbeit von Jakob Mühlberger an der HTL Leonding. Aber wie kam es dazu?"
         },
         {
           "type": "paragraph",
-          "text": "Unser Ziel war es, die Kommunikation und den Informationsfluss in der Therapiebranche zu verbessern und gleichzeitig die individuellen Anforderungen jedes Therapeuten zu berücksichtigen."
+          "text": "Warum kann es sein, dass in der heutigen Zeit, wo jedes kleinste Detail digitalisiert wird, die meisten Therapeuten ihre Notizen immer noch mit der Hand führen. Und warum gibt es noch keine Möglichkeit, diese gesammelten Daten visuell nutzen zu können? Das sind die Fragen, die mich dazu bewegt haben, TherapizeMe zu entwickeln."
         },
-        { "type": "subtitle", "text": "Subtitle" },
+        { "type": "subtitle", "text": "Schritte" },
         {
           "type": "cards",
           "cards": [
             {
-              "title": "Card Title 1",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+              "title": "Schritt 1 - Das Konzept",
+              "text": "Konzepiert wird TherapizeMe als Web-App, die auf allen Geräten funktioniert. Das Design ist minimalistisch und intuitiv, damit es für jeden Therapeuten einfach zu bedienen ist."
             },
             {
-              "title": "Card Title 2",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+              "title": "Schritt 2 - Die Umsetzung",
+              "text": "Momentan befindet sich TherapizeMe noch in der Entwicklung. Die ersten Prototypen sind bereits fertig und werden in den nächsten Monaten weiterentwickelt."
             },
             {
-              "title": "Card Title 3",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "HTL Leonding",
-      "id": "another-section-title",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste fugit cupiditate odit, sit pariatur ipsam obcaecati dicta magni cumque culpa laboriosam aspernatur tenetur nemo ex omnis hic deleniti ab beatae?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Inventore, illo sed unde officia nostrum asperiores nihil placeat cumque iusto tenetur eius, voluptas temporibus nesciunt voluptatem, odio consequatur assumenda ipsam tempore eos ea cum. Aliquam doloremque iste atque laborum?"
-        },
-        { "type": "subtitle", "text": "Subtitle" },
-        {
-          "type": "cards",
-          "cards": [
-            {
-              "title": "Card Title 1",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
-            },
-            {
-              "title": "Card Title 2",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
-            },
-            {
-              "title": "Card Title 3",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+              "title": "Schritt 3 - Testen",
+              "text": "Nach der Entwicklung wird TherapizeMe von Therapeuten getestet, um die Usability zu verbessern und Fehler zu beheben. Hier kommen auch Sie ins Spiel! Wenn Sie Interesse haben, TherapizeMe zu testen, melden Sie sich gerne bei mir."
             }
           ]
         }
