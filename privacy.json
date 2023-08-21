@@ -1,0 +1,17 @@
+{
+  "title": "Datenschutz",
+  "description": "Ihre Daten – unser Versprechen.",
+
+  "sections": [
+    {
+      "title": "Wir nehmen unsere Aufgabe sehr ernst",
+      "id": "wir-nehmen-unsere-aufgabe-sehr-ernst",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Content coming soon"
+        },
+      ]
+    }
+  ]
+}
