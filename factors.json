@@ -1,0 +1,75 @@
+{
+  "title": "Faktorisierung",
+  "description": "Das Herzstück von TherapizeMe!",
+  "sections": [
+    {
+      "title": "Was ist Faktorisierung?",
+      "id": "was-ist-faktorisierung",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Die Faktorisierung ist das Konzept der Aufteilung der Therapie in einzelne, unabhängige Faktoren. Diese Faktoren können numerisch bewertet werden und ermöglichen so eine objektive Bewertung der Therapie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inventore, illo sed unde officia nostrum asperiores nihil placeat cumque iusto tenetur eius, voluptas temporibus nesciunt voluptatem, odio consequatur assumenda ipsam tempore eos ea cum. Aliquam doloremque iste atque laborum?"
+        },
+        { "type": "subtitle", "text": "Subtitle" },
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1682685797736-dabb341dc7de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3570&q=80",
+          "alt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste fugit cupiditate odit, sit pariatur ipsam obcaecati dicta magni cumque culpa laboriosam aspernatur tenetur nemo ex omnis hic deleniti ab beatae?"
+        },
+        {
+          "type": "cards",
+          "cards": [
+            {
+              "title": "Card Title 1",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+            },
+            {
+              "title": "Card Title 2",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+            },
+            {
+              "title": "Card Title 3",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Another Section Title",
+      "id": "another-section-title",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste fugit cupiditate odit, sit pariatur ipsam obcaecati dicta magni cumque culpa laboriosam aspernatur tenetur nemo ex omnis hic deleniti ab beatae?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Inventore, illo sed unde officia nostrum asperiores nihil placeat cumque iusto tenetur eius, voluptas temporibus nesciunt voluptatem, odio consequatur assumenda ipsam tempore eos ea cum. Aliquam doloremque iste atque laborum?"
+        },
+        { "type": "subtitle", "text": "Subtitle" },
+        {
+          "type": "cards",
+          "cards": [
+            {
+              "title": "Card Title 1",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+            },
+            {
+              "title": "Card Title 2",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+            },
+            {
+              "title": "Card Title 3",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
