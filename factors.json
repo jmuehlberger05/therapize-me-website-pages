@@ -42,8 +42,8 @@
         },
         {
           "type": "image",
-          "src": "https://images.unsplash.com/photo-1682685797736-dabb341dc7de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3570&q=80",
-          "alt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste fugit cupiditate odit, sit pariatur ipsam obcaecati dicta magni cumque culpa laboriosam aspernatur tenetur nemo ex omnis hic deleniti ab beatae?"
+          "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/Select%20Factor%20Window.webp",
+          "alt": "Das Fenster zum Auswählen der Faktoren. Dieses Fenster erscheint beim der Sektoren-Section beim Anlegen eines neuen Krankheitsfalles."
         },
         {
           "type": "cards",
