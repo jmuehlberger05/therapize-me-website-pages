@@ -22,7 +22,24 @@
           "type": "paragraph",
           "text": "Wichtig dabei ist, dass die Faktorisierung nur ergänzend zur digitalen Patientenakte verwendet wird. Die Faktorisierung ist kein Ersatz für die Dokumentation der Therapie, sondern eine Ergänzung, die die Dokumentation objektiviert und vereinfacht."
         },
-        { "type": "subtitle", "text": "Subtitle" },
+        { "type": "subtitle", "text": "Prinzip" },
+        {
+          "type": "cards",
+          "cards": [
+            {
+              "title": "Faktoren anlegen",
+              "text": "Um einem Krankheitsfall Faktoren zuweisen zu können, müssen diese zuerst definiert werden. Dies geschieht in der Faktorenverwaltung. Hier können Faktoren angelegt, bearbeitet und gelöscht werden. Es besteht auch die Möglichkeit schon vorgefertigte Faktoren zu benutzen."
+            },
+            {
+              "title": "Faktoren anwenden",
+              "text": "Die angelegten Faktoren können nun dem Krankheitsfall zugewiesen werden. Dies geschieht beim Anlegen des Falles. Hier können Faktoren zum Fall hinzugefügt und angepasst werden. Im Verlauf der Therapie können noch weitere Faktoren hinzugefügt werden."
+            },
+            {
+              "title": "Faktoren am laufenden halten",
+              "text": "In den folgenden Therapieeinheiten können die Faktoren dann mit Werten versehen werden. Diese Werte werden dann in der Faktorisierung gespeichert und können später in Diagrammen dargestellt werden."
+            }
+          ]
+        },
         {
           "type": "image",
           "src": "https://images.unsplash.com/photo-1682685797736-dabb341dc7de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3570&q=80",
