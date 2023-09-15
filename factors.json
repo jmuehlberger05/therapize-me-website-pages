@@ -12,7 +12,15 @@
         },
         {
           "type": "paragraph",
-          "text": "Inventore, illo sed unde officia nostrum asperiores nihil placeat cumque iusto tenetur eius, voluptas temporibus nesciunt voluptatem, odio consequatur assumenda ipsam tempore eos ea cum. Aliquam doloremque iste atque laborum?"
+          "text": "Beispiel: Ein / eine Physiotherapeut: In behandelt eine / einen Patient: In nach einem Verkehrsunfall, bei dem das rechte Knie des Patienten betroffen ist. Statt nur allgemeine Notizen zum Fortschritt des Patienten zu machen, verwendet der / die Therapeut: In TherapizeMes Faktorisierung, um spezifische Faktoren wie die 'Beweglichkeit des rechten Knies' in Zentimetern oder den 'Schmerzgrad' in Punkteinheiten zu messen und zu dokumentieren. Diese konkreten Datenpunkte ermöglichen es, den Zustand des Patienten präzise und objektiv zu bewerten."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mit der Zeit sammelt TherapizeMe eine Serie dieser Datenpunkte. Und hier offenbart sich der wahre Wert: Die Fähigkeit, diese Datenpunkte visuell in Diagrammen darzustellen. Durch diese Darstellung kann der Therapeut den Fortschritt des Patienten im Laufe der Zeit genau verfolgen und Anpassungen an der Behandlung vornehmen, je nachdem, wie sich die individuellen Faktoren entwickeln."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wichtig dabei ist, dass die Faktorisierung nur ergänzend zur digitalen Patientenakte verwendet wird. Die Faktorisierung ist kein Ersatz für die Dokumentation der Therapie, sondern eine Ergänzung, die die Dokumentation objektiviert und vereinfacht."
         },
         { "type": "subtitle", "text": "Subtitle" },
         {
