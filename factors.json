@@ -18,10 +18,7 @@
           "type": "paragraph",
           "text": "Mit der Zeit sammelt TherapizeMe eine Serie dieser Datenpunkte. Und hier offenbart sich der wahre Wert: Die Fähigkeit, diese Datenpunkte visuell in Diagrammen darzustellen. Durch diese Darstellung kann der Therapeut den Fortschritt des Patienten im Laufe der Zeit genau verfolgen und Anpassungen an der Behandlung vornehmen, je nachdem, wie sich die individuellen Faktoren entwickeln."
         },
-        {
-          "type": "paragraph",
-          "text": "Wichtig dabei ist, dass die Faktorisierung nur ergänzend zur digitalen Patientenakte verwendet wird. Die Faktorisierung ist kein Ersatz für die Dokumentation der Therapie, sondern eine Ergänzung, die die Dokumentation objektiviert und vereinfacht."
-        },
+
         { "type": "subtitle", "text": "Prinzip" },
         {
           "type": "cards",
@@ -44,55 +41,25 @@
           "type": "image",
           "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/Select%20Factor%20Window.webp",
           "alt": "Das Fenster zum Auswählen der Faktoren. Dieses Fenster erscheint beim der Sektoren-Section beim Anlegen eines neuen Krankheitsfalles."
-        },
-        {
-          "type": "cards",
-          "cards": [
-            {
-              "title": "Card Title 1",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
-            },
-            {
-              "title": "Card Title 2",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
-            },
-            {
-              "title": "Card Title 3",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
-            }
-          ]
         }
       ]
     },
     {
-      "title": "Another Section Title",
-      "id": "another-section-title",
+      "title": "Darstellung",
+      "id": "darstellung",
       "content": [
         {
           "type": "paragraph",
-          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste fugit cupiditate odit, sit pariatur ipsam obcaecati dicta magni cumque culpa laboriosam aspernatur tenetur nemo ex omnis hic deleniti ab beatae?"
+          "text": "Was ist eine gute Dokumentation ohne eine ebenso gute Darstellung? Die gesammelten Daten werden dann zur Analyse in Liniendiagrammen mit diversen visuellen Analysetools dargestellt. Diese Diagramme können dann auch exportiert werden, um sie in anderen Programmen weiter zu verarbeiten."
+        },
+        {
+          "type": "image",
+          "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/Diagram%20Widget.webp",
+          "alt": "Die behandelten Faktoren können dann in solchen Diagrammen dargestellt werden"
         },
         {
           "type": "paragraph",
-          "text": "Inventore, illo sed unde officia nostrum asperiores nihil placeat cumque iusto tenetur eius, voluptas temporibus nesciunt voluptatem, odio consequatur assumenda ipsam tempore eos ea cum. Aliquam doloremque iste atque laborum?"
-        },
-        { "type": "subtitle", "text": "Subtitle" },
-        {
-          "type": "cards",
-          "cards": [
-            {
-              "title": "Card Title 1",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
-            },
-            {
-              "title": "Card Title 2",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
-            },
-            {
-              "title": "Card Title 3",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
-            }
-          ]
+          "text": "Wichtig dabei ist jedoch, dass die Faktorisierung nur ergänzend zur digitalen Patientenakte verwendet wird. Die Faktorisierung ist kein Ersatz für die Dokumentation der Therapie, sondern eine Ergänzung, die die Dokumentation objektiviert und vereinfacht."
         }
       ]
     }
