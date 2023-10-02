@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Startup Live 2023",
+    "description": "Wir haben bei Startup Live Linz 2023 den 3. Platz bei den Pitchpräsentationen belegt.",
+    "image": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/articles/startup-live.webp",
+    "link": {
+      "text": "Mehr Lesen",
+      "link": "https://www.startuplive.org/event/linz/"
+    }
+  },
+  {
+    "title": "Linz Hackt 2023",
+    "description": "TherapizeMe ist Teil des Linz Hackt 2023 Projekts und wird von der Stadt Linz unterstützt.",
+    "image": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/articles/linz-hackt.webp",
+    "link": {
+      "text": "Mehr erfahren",
+      "link": "https://ideen-innovation.linz.at/challenges/idea/bcbb649f-ea31-4188-be1a-077d8ea395d7/7/8"
+    }
+  },
+  {
+    "title": "UpdateSocial 2023",
+    "description": "TherapizeMe ist Teil des Linz Hackt 2023 Projekts und wird von der Stadt Linz unterstützt.",
+    "image": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/articles/updatesocial.webp",
+    "link": {
+      "text": "Mehr erfahren",
+      "link": "https://updatesocial.org/anerkennungspreise/"
+    }
+  }
+]
