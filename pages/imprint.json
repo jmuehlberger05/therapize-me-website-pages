@@ -8,44 +8,18 @@
       "id": "kontakt",
       "content": [
         {
-          "type": "paragraph",
-          "text": "CEO: Jakob Mühlberger"
+          "type": "cards",
+          "cards": [
+            {
+              "title": "Jakob Mühlberger",
+              "text": "CEO von TherapizeMe"
+            }
+          ]
         },
         {
           "type": "button",
           "label": "jakob@therapize-me.at",
           "href": "mailto:jakob@therapize-me.at"
-        }
-      ]
-    },
-    {
-      "title": "Datenverarbeitung und Zweck",
-      "id": "datenverarbeitung-und-zweck",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Wenn Sie unsere Plattform nutzen, erheben wir die für die Durchführung der Therapie erforderlichen Daten. Ihre Daten werden ausschließlich von qualifizierten Physiotherapeut:innen eingesehen und verwendet."
-        },
-        {
-          "type": "cards",
-          "cards": [
-            {
-              "title": "Zugriffsdaten",
-              "text": "Bei jedem Zugriff auf unsere Plattform werden Zugriffsdaten (z.B. IP-Adresse, Datum und Uhrzeit des Zugriffs) gespeichert."
-            },
-            {
-              "title": "Patientendaten",
-              "text": "Wir speichern und verarbeiten Ihre Therapiedaten, um eine optimale Betreuung gewährleisten zu können."
-            },
-            {
-              "title": "Kontaktdaten",
-              "text": "Falls Sie mit uns in Kontakt treten, werden Ihre Kontaktdaten (z.B. Name, E-Mail) gespeichert, um Ihr Anliegen bearbeiten zu können."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Bitte beachten Sie, dass keine Datenübertragung im Internet zu 100% sicher ist. Trotz höchster Sicherheitsstandards kann kein absoluter Schutz vor Zugriffen Dritter garantiert werden."
         }
       ]
     }
