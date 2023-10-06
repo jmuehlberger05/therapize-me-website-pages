@@ -20,6 +20,11 @@
           "type": "button",
           "label": "jakob@therapize-me.at",
           "href": "mailto:jakob@therapize-me.at"
+        },
+        {
+          "type": "button",
+          "label": "+43 676 814282541",
+          "href": "tel:+43676814282541"
         }
       ]
     }
