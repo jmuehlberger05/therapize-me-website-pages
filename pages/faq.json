@@ -1,72 +1,35 @@
 {
   "title": "FAQ",
-  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum eveniet praesentium, doloribus ullam libero hic aut itaque soluta et nesciunt.",
-  "heroButtons": [
-    { "label": "Button 1", "href": "/" },
-    { "label": "Button 2", "href": "/" }
-  ],
+  "description": "Fragen, die wir öfter hören :)",
+  "heroButtons": [],
   "sections": [
     {
-      "title": "FAQ",
-      "id": "section-title",
+      "title": "Öfters gestellte Fragen",
+      "id": "oefters-gestellte-fragen",
       "content": [
         {
-          "type": "paragraph",
-          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste fugit cupiditate odit, sit pariatur ipsam obcaecati dicta magni cumque culpa laboriosam aspernatur tenetur nemo ex omnis hic deleniti ab beatae?"
+          "type": "subtitle",
+          "text": "Wie steht die Entwicklung von TherapizeMe?"
         },
         {
           "type": "paragraph",
-          "text": "Inventore, illo sed unde officia nostrum asperiores nihil placeat cumque iusto tenetur eius, voluptas temporibus nesciunt voluptatem, odio consequatur assumenda ipsam tempore eos ea cum. Aliquam doloremque iste atque laborum?"
+          "text": "Momentan befindet sich TherapizeMe noch in der anfänglichen Entwicklung. Wir arbeiten mit Hochdruck daran, die Plattform so schnell wie möglich zu veröffentlichen."
         },
-        { "type": "subtitle", "text": "Subtitle" },
         {
-          "type": "cards",
-          "cards": [
-            {
-              "title": "Card Title 1",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
-            },
-            {
-              "title": "Card Title 2",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
-            },
-            {
-              "title": "Card Title 3",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Another Section Title",
-      "id": "another-section-title",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste fugit cupiditate odit, sit pariatur ipsam obcaecati dicta magni cumque culpa laboriosam aspernatur tenetur nemo ex omnis hic deleniti ab beatae?"
+          "type": "subtitle",
+          "text": "Was ist die Vision von TherapizeMe?"
         },
         {
           "type": "paragraph",
-          "text": "Inventore, illo sed unde officia nostrum asperiores nihil placeat cumque iusto tenetur eius, voluptas temporibus nesciunt voluptatem, odio consequatur assumenda ipsam tempore eos ea cum. Aliquam doloremque iste atque laborum?"
+          "text": "Mit TherapizeMe versuchen wir, die Organisation und Kommunikation in der physische Therapie grundleged umzustrukturieren. Wir wollen die Kommunikation zwischen Patienten und Therapeuten vereinfachen und die Organisation von Terminen und Übungen automatisieren."
         },
-        { "type": "subtitle", "text": "Subtitle" },
         {
-          "type": "cards",
-          "cards": [
-            {
-              "title": "Card Title 1",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
-            },
-            {
-              "title": "Card Title 2",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
-            },
-            {
-              "title": "Card Title 3",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nunc."
-            }
-          ]
+          "type": "subtitle",
+          "text": "Wann wird TherapizeMe veröffentlicht?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ein endgültiges Datum können wir leider noch nicht nennen. Geplant ist momentan das erste Quartal 2025."
         }
       ]
     }
