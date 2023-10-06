@@ -9,11 +9,11 @@
       "content": [
         {
           "type": "paragraph",
-          "text": "Bei TherapizeMe nehmen wir den Schutz Ihrer persönlichen Daten sehr ernst. Wir erheben, speichern und verarbeiten Ihre Daten ausschließlich im Rahmen der gesetzlichen Bestimmungen. Diese Datenschutzerklärung informiert Sie über die Art, den Umfang und den Zweck der Verarbeitung personenbezogener Daten. Wir setzen technische und organisatorische Sicherheitsmaßnahmen ein, um Ihre Daten gegen Verlust, Zerstörung oder Zugriff unberechtigter Personen zu schützen."
+          "text": "CEO: Jakob Mühlberger"
         },
         {
           "type": "button",
-          "label": "Kontakt",
+          "label": "jakob@therapize-me.at",
           "href": "mailto:jakob@therapize-me.at"
         }
       ]
