@@ -1,0 +1,53 @@
+{
+  "title": "Impressum",
+  "description": "Information gemäß §5 E-Commerce Gesetz und Offenlegung gemäß § 25 Mediengesetz",
+
+  "sections": [
+    {
+      "title": "Kontakt",
+      "id": "kontakt",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Bei TherapizeMe nehmen wir den Schutz Ihrer persönlichen Daten sehr ernst. Wir erheben, speichern und verarbeiten Ihre Daten ausschließlich im Rahmen der gesetzlichen Bestimmungen. Diese Datenschutzerklärung informiert Sie über die Art, den Umfang und den Zweck der Verarbeitung personenbezogener Daten. Wir setzen technische und organisatorische Sicherheitsmaßnahmen ein, um Ihre Daten gegen Verlust, Zerstörung oder Zugriff unberechtigter Personen zu schützen."
+        },
+        {
+          "type": "button",
+          "label": "Kontakt",
+          "href": "mailto:jakob@therapize-me.at"
+        }
+      ]
+    },
+    {
+      "title": "Datenverarbeitung und Zweck",
+      "id": "datenverarbeitung-und-zweck",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Wenn Sie unsere Plattform nutzen, erheben wir die für die Durchführung der Therapie erforderlichen Daten. Ihre Daten werden ausschließlich von qualifizierten Physiotherapeut:innen eingesehen und verwendet."
+        },
+        {
+          "type": "cards",
+          "cards": [
+            {
+              "title": "Zugriffsdaten",
+              "text": "Bei jedem Zugriff auf unsere Plattform werden Zugriffsdaten (z.B. IP-Adresse, Datum und Uhrzeit des Zugriffs) gespeichert."
+            },
+            {
+              "title": "Patientendaten",
+              "text": "Wir speichern und verarbeiten Ihre Therapiedaten, um eine optimale Betreuung gewährleisten zu können."
+            },
+            {
+              "title": "Kontaktdaten",
+              "text": "Falls Sie mit uns in Kontakt treten, werden Ihre Kontaktdaten (z.B. Name, E-Mail) gespeichert, um Ihr Anliegen bearbeiten zu können."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Bitte beachten Sie, dass keine Datenübertragung im Internet zu 100% sicher ist. Trotz höchster Sicherheitsstandards kann kein absoluter Schutz vor Zugriffen Dritter garantiert werden."
+        }
+      ]
+    }
+  ]
+}
