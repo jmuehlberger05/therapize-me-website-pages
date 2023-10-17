@@ -35,12 +35,9 @@
         },
         {
           "type": "image",
-          "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/Diagram%20Widget.png",
-          "alt": "..."
-        },
-        {
-          "type": "paragraph",
-          "text": "..."
+          "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/Edit%20Mode%20In%20Action.webp",
+
+          "alt": "Repräsentation des Bearbeitungsmodus"
         }
       ]
     }
