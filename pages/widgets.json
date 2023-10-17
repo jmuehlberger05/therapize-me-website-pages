@@ -16,8 +16,8 @@
         },
         {
           "type": "image",
-          "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/Select%20Factor%20Window.png",
-          "alt": "... Beschreibung des Widgetsysteminfobildes"
+          "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/Widget%20System.wepb",
+          "alt": "Repräsentation des Widget Systems"
         },
         {
           "type": "paragraph",
@@ -31,7 +31,7 @@
       "content": [
         {
           "type": "paragraph",
-          "text": "... ausformulieren: TherapizeMe passt sich somit an Ihre Arbeitsweise an, und nicht umgekehrt."
+          "text": "TherapizeMe ist ein Werkzeug, dass Sie bei Ihrer Arbeit unterstützen soll. Deshalb haben wir TherapizeMe so entwickelt, dass es sich an Ihre Bedürfnisse anpasst und nicht umgekehrt. Durch diese Modularität können Sie Ihren Arbeitsplatz so gestalten, wie Sie es brauchen um Ihen einen möglichst effizienten Workflow zu ermöglichen."
         },
         {
           "type": "image",
@@ -41,8 +41,7 @@
         {
           "type": "paragraph",
           "text": "..."
-        },
-        { "type": "subtitle", "text": "... if you add subtitles" }
+        }
       ]
     }
   ]
