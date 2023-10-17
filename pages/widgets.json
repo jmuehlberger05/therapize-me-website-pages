@@ -1,0 +1,49 @@
+{
+  "title": "Widgets",
+  "description": "Passen Sie Ihren Arbeitsplatz so an wie Sie es brauchen, mit Widgets.",
+  "sections": [
+    {
+      "title": "Wie funktioniert das?",
+      "id": "wie-funktioniert-das",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Bei TherapizeMe setzen wir auf Modularität. Jede Seite besteht aus individuellen Widgets, sodass Sie den Inhalt und die Anordnung nach Ihren Wünschen anpassen können."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jeder Funktionsbereich, ob Patienteninformation, Behandlungsplan oder Fortschrittsverlauf, kann als eigenständiges Widget dargestellt werden oder in mehrere vorgefertige Widgets aufgeteilt werden."
+        },
+        {
+          "type": "image",
+          "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/Select%20Factor%20Window.png",
+          "alt": "... Beschreibung des Widgetsysteminfobildes"
+        },
+        {
+          "type": "paragraph",
+          "text": "Diese Widgets können Sie nach Belieben bearbeiten, bewegen, löschen oder hinzufügen. Mit unserer umfangreichen Widget-Bibliothek haben Sie stets die passenden Tools zur Hand."
+        }
+      ]
+    },
+    {
+      "title": "Wozu Widgets?",
+      "id": "wozu-widgets",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "... ausformulieren: TherapizeMe passt sich somit an Ihre Arbeitsweise an, und nicht umgekehrt."
+        },
+        {
+          "type": "image",
+          "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/Diagram%20Widget.png",
+          "alt": "..."
+        },
+        {
+          "type": "paragraph",
+          "text": "..."
+        },
+        { "type": "subtitle", "text": "... if you add subtitles" }
+      ]
+    }
+  ]
+}
