@@ -1,7 +1,7 @@
 {
   "title": "Widgets",
   "description": "Passen Sie Ihren Arbeitsplatz so an wie Sie es brauchen, mit Widgets.",
-  "HeroImage": {
+  "heroImage": {
     "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/Widgets-Header-Image.webp",
     "alt": "Eine Übersicht der Widgets aus Nächster-Patient-Widget und Faktor-Widget"
   },
