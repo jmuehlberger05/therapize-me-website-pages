@@ -1,6 +1,10 @@
 {
   "title": "Faktorisierung",
   "description": "Entdecken Sie mit TherapizeMe's Faktorisierung, wie Sie Therapieerfolge messbar, visuell und revolutionär präsentieren – für eine optimierte und objektive Patientenpflege!",
+  "heroImage": {
+    "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/Factors-Header-Image.webp",
+    "alt": "Eine Übersicht eines Liniendiagramm-Widgets und einer Liste von Faktoren"
+  },
   "sections": [
     {
       "title": "Was ist Faktorisierung?",
