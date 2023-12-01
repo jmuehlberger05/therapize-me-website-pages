@@ -15,28 +15,18 @@
           }
         },
         {
-          "type": "subtitle",
-          "text": "Wie steht die Entwicklung von TherapizeMe?"
+          "type": "faq-module",
+          "element": {
+            "question": "Was ist die Vision von TherapizeMe?",
+            "answer": "Mit TherapizeMe versuchen wir, die Organisation und Kommunikation in der physische Therapie grundleged umzustrukturieren. Wir wollen die Kommunikation zwischen Patienten und Therapeuten vereinfachen und die Organisation von Terminen und Übungen automatisieren."
+          }
         },
         {
-          "type": "paragraph",
-          "text": "Momentan befindet sich TherapizeMe noch in der anfänglichen Entwicklung. Wir arbeiten mit Hochdruck daran, die Plattform so schnell wie möglich zu veröffentlichen."
-        },
-        {
-          "type": "subtitle",
-          "text": "Was ist die Vision von TherapizeMe?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Mit TherapizeMe versuchen wir, die Organisation und Kommunikation in der physische Therapie grundleged umzustrukturieren. Wir wollen die Kommunikation zwischen Patienten und Therapeuten vereinfachen und die Organisation von Terminen und Übungen automatisieren."
-        },
-        {
-          "type": "subtitle",
-          "text": "Wann wird TherapizeMe veröffentlicht?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Ein endgültiges Datum können wir leider noch nicht nennen. Geplant ist momentan das erste Quartal 2025."
+          "type": "faq-module",
+          "element": {
+            "question": "Wann wird TherapizeMe veröffentlicht?",
+            "answer": "Ein endgültiges Datum können wir leider noch nicht nennen. Geplant ist momentan das erste Quartal 2025."
+          }
         }
       ]
     }
