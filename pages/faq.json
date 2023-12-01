@@ -8,6 +8,13 @@
       "id": "oefters-gestellte-fragen",
       "content": [
         {
+          "type": "faq-module",
+          "element": {
+            "question": "Wie steht die Entwicklung von TherapizeMe?",
+            "answer": "Momentan befindet sich TherapizeMe noch in der anfänglichen Entwicklung. Wir arbeiten mit Hochdruck daran, die Plattform so schnell wie möglich zu veröffentlichen."
+          }
+        },
+        {
           "type": "subtitle",
           "text": "Wie steht die Entwicklung von TherapizeMe?"
         },
