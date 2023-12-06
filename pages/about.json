@@ -1,6 +1,6 @@
 {
-  "title": "Über TherapizeMe",
-  "description": "TherapizeMe startet im Frühling 2023 als Diplomarbeit von Jakob Mühlberger an der HTL Leonding.",
+  "title": "Wir sind TherapizeMe",
+  "description": "Ihr individuelles Therapie-Tool, um Ihre Patienten zu verstehen und zu behandeln.",
   "heroButtons": [
     {
       "label": "Portfolio",
@@ -34,7 +34,7 @@
               "text": "Momentan befindet sich TherapizeMe noch in der Entwicklung. Die ersten Prototypen sind bereits fertig und werden in den nächsten Monaten weiterentwickelt."
             },
             {
-              "title": "Schritt 3 - Testen",
+              "title": "Schritt 3 - Feedback",
               "text": "Nach der Entwicklung wird TherapizeMe von Therapeuten getestet, um die Usability zu verbessern und Fehler zu beheben. Hier kommen auch Sie ins Spiel! Wenn Sie Interesse haben, TherapizeMe zu testen, melden Sie sich gerne bei mir."
             }
           ]
