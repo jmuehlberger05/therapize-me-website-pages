@@ -9,7 +9,7 @@
         {
           "type": "contact-card",
           "contactCard": {
-            "name": "Jakob Mühlberer",
+            "name": "Jakob Mühlberger",
             "position": "CEO von TherapizeMe",
             "email": "jakob@therapize-me.at",
             "phone": "+43 676 814282541",
@@ -27,7 +27,7 @@
       "content": [
         {
           "type": "paragraph",
-          "text": "Diese Website dient ausschließlich der Information und stellt keine Beratung oder Empfehlung dar. Die Inhalte dieser Website wurden mit größtmöglicher Sorgfalt erstellt. Dennoch kann keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Inhalte übernommen werden. Die Nutzung der Website erfolgt auf eigene Gefahr."
+          "text": "Die Inhalte dieser Website wurden mit größtmöglicher Sorgfalt erstellt. Dennoch kann keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Inhalte übernommen werden. Die Nutzung der Website erfolgt auf eigene Gefahr. Bei Unsicherheiten oder Fragen zu den Inhalten dieser Website wenden Sie sich bitte an die oben angegebene Kontaktperson."
         }
       ]
     },
