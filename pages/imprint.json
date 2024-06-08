@@ -7,7 +7,7 @@
       "id": "kontakt",
       "content": [
         {
-          "type": "contactcontact-card",
+          "type": "contact-card",
           "contactCard": {
             "name": "Jakob Mühlberer",
             "position": "CEO von TherapizeMe",
