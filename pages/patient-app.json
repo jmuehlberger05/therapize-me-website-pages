@@ -39,7 +39,7 @@
         },
         {
           "type": "image",
-          "src": "https://example.com/images/Patienten-App-Progress.webp",
+          "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/Patienten-App-Funktionen.webp",
           "alt": "Visualisierung des Fortschritts in der Patienten-App"
         }
       ]
@@ -75,7 +75,7 @@
         },
         {
           "type": "image",
-          "src": "https://example.com/images/Patienten-App-Chat.webp",
+          "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/Patienten-App-Funktionen.webp",
           "alt": "Chat-Funktion der TherapizeMe Patienten-App"
         }
       ]
