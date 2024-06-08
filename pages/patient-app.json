@@ -1,0 +1,67 @@
+{
+  "title": "Patienten-App",
+  "description": "Ein ganzheitliches Ökosystem für Physiotherapie - Die TherapizeMe Patienten-App",
+  "heroImage": {
+    "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/Patient-App-Header-Image.webp",
+    "alt": "Eine Übersicht der TherapizeMe Patienten-App"
+  },
+  "sections": [
+    {
+      "title": "Wie funktioniert die TherapizeMe Patienten-App?",
+      "id": "wie-funktioniert-die-therapizeMe-patienten-app",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Die TherapizeMe Patienten-App wurde entwickelt, um den Therapieprozess zu digitalisieren und die Patienten aktiv in ihre Heilung einzubeziehen. Patienten können über die App auf personalisierte Übungen, Fortschrittsverfolgung und direkte Kommunikation mit ihren Therapeuten zugreifen."
+        },
+        {
+          "type": "paragraph",
+          "text": "Durch die enge Zusammenarbeit mit Physiotherapeuten und Patienten wurde eine benutzerfreundliche, intuitive Oberfläche geschaffen, die es Patienten ermöglicht, ihre Therapie effizient und zielgerichtet zu verfolgen."
+        },
+        {
+          "type": "image",
+          "src": "https://example.com/images/Patienten-App-Overview.webp",
+          "alt": "Ein Überblick der Funktionen der TherapizeMe Patienten-App"
+        }
+      ]
+    },
+    {
+      "title": "Vorteile der Patienten-App",
+      "id": "vorteile-der-patienten-app",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Die Patienten-App bietet zahlreiche Vorteile sowohl für Patienten als auch für Therapeuten. Durch die digitale Erfassung und Auswertung der Daten kann der Therapieprozess effizienter gestaltet und besser nachvollzogen werden."
+        },
+        {
+          "type": "paragraph",
+          "text": "Patienten können ihre persönlichen Fortschritte in Echtzeit einsehen und werden durch ein Belohnungssystem motiviert, ihre Übungen regelmäßig durchzuführen. Dies erhöht die Wahrscheinlichkeit eines erfolgreichen Therapieabschlusses."
+        },
+        {
+          "type": "image",
+          "src": "https://example.com/images/Patienten-App-Progress.webp",
+          "alt": "Visualisierung des Fortschritts in der Patienten-App"
+        }
+      ]
+    },
+    {
+      "title": "Einzigartige Features der TherapizeMe Patienten-App",
+      "id": "einzigartige-features-der-therapizeme-patienten-app",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Die App ermöglicht eine grafische Krankheitsfallanalyse, welche ein tieferes Verständnis für den Krankheitsverlauf bietet. Faktoren wie Bewegungsradius, Schmerzniveau und Belastbarkeit können kontinuierlich erfasst und ausgewertet werden."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eine sichere Chat-Funktion ermöglicht die direkte Kommunikation zwischen Therapeuten und Patienten, und wichtige Dokumente können digital übermittelt werden."
+        },
+        {
+          "type": "image",
+          "src": "https://example.com/images/Patienten-App-Chat.webp",
+          "alt": "Chat-Funktion der TherapizeMe Patienten-App"
+        }
+      ]
+    }
+  ]
+}
