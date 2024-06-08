@@ -31,25 +31,6 @@
       "content": [
         {
           "type": "paragraph",
-          "text": "Die Patienten-App bietet zahlreiche Vorteile sowohl für Patienten als auch für Therapeuten. Durch die digitale Erfassung und Auswertung der Daten kann der Therapieprozess effizienter gestaltet und besser nachvollzogen werden."
-        },
-        {
-          "type": "paragraph",
-          "text": "Patienten können ihre persönlichen Fortschritte in Echtzeit einsehen und werden durch ein Belohnungssystem motiviert, ihre Übungen regelmäßig durchzuführen. Dies erhöht die Wahrscheinlichkeit eines erfolgreichen Therapieabschlusses."
-        },
-        {
-          "type": "image",
-          "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/Patienten-App-Funktionen.webp",
-          "alt": "Visualisierung des Fortschritts in der Patienten-App"
-        }
-      ]
-    },
-    {
-      "title": "Einzigartige Features der TherapizeMe Patienten-App",
-      "id": "einzigartige-features-der-therapizeme-patienten-app",
-      "content": [
-        {
-          "type": "paragraph",
           "text": "Die Patienten-App ist eine Erweiterung des TherapizeMe-Ökosystems und bietet eine Vielzahl einzigartiger Features, die den Therapieprozess optimieren und die Patienten aktiv in ihre Genesung einbeziehen."
         },
         {
@@ -75,8 +56,8 @@
         },
         {
           "type": "image",
-          "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/Patienten-App-Funktionen.webp",
-          "alt": "Chat-Funktion der TherapizeMe Patienten-App"
+          "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/Patienten-App Screens.webp",
+          "alt": "Übungsanleitung und Chat-Funktion der TherapizeMe Patienten-App"
         }
       ]
     }
