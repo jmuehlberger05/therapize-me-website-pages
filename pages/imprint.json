@@ -32,7 +32,7 @@
       "id": "informationen",
       "content": [
         {
-          "type": "text",
+          "type": "parapraph",
           "text": "Diese Website dient ausschließlich der Information und stellt keine Beratung oder Empfehlung dar. Die Inhalte dieser Website wurden mit größtmöglicher Sorgfalt erstellt. Dennoch kann keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Inhalte übernommen werden. Die Nutzung der Website erfolgt auf eigene Gefahr."
         }
       ]
@@ -42,7 +42,7 @@
       "id": "personenbezogene-daten",
       "content": [
         {
-          "type": "text",
+          "type": "parapraph",
           "text": "Wir sammeln und verwenden keine spezifischen personenbezogenen Daten unserer Nutzer. Zu analytischen Zwecken und um die Nutzung unserer Webseite zu ermöglichen, erheben wir Daten über Zugriffe auf die Website und speichern diese als „Server-Logfiles“ auf dem Server der Website ab."
         }
       ]
@@ -52,7 +52,7 @@
       "id": "cookies",
       "content": [
         {
-          "type": "text",
+          "type": "parapraph",
           "text": "Unsere Webseite verwendet Cookies. Das sind kleine Textdateien, die auf Ihrem Endgerät gespeichert werden. Ihr Browser greift auf diese Dateien zu. Durch den Einsatz von Cookies erhöht sich die Benutzerfreundlichkeit und Sicherheit dieser Website. Wenn Sie nicht möchten, dass Cookies zur Analyse Ihres Nutzerverhaltens verwendet werden, können Sie den Einsatz der entsprechenden Cookies in den Einstellungen Ihres Browsers sperren oder deaktivieren. Bereits gespeicherte Cookies können jederzeit gelöscht werden. Dies kann auch automatisiert erfolgen. Werden Cookies für unsere Website deaktiviert, können möglicherweise nicht mehr alle Funktionen der Website vollumfänglich genutzt werden."
         }
       ]
@@ -62,11 +62,11 @@
       "id": "aenderungen-der-datenschutzerklaerung",
       "content": [
         {
-          "type": "text",
+          "type": "parapraph",
           "text": "Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen in der Datenschutzerklärung umzusetzen, z.B. bei der Einführung neuer Services. Für Ihren erneuten Besuch gilt dann die neue Datenschutzerklärung."
         },
         {
-          "type": "text",
+          "type": "parapraph",
           "text": "Letzte Änderung: 12.05.2024"
         }
       ]
