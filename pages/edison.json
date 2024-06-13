@@ -17,12 +17,12 @@
         {
           "type": "button",
           "text": "Abstimmung Junior",
-          "url": "https://www.tech2b.at/edison-voting/#voting"
+          "href": "https://www.tech2b.at/edison-voting/#voting"
         },
         {
           "type": "button",
           "text": "Abstimmung Med Tech",
-          "url": "https://www.tech2b.at/edison-voting/#medtech"
+          "href": "https://www.tech2b.at/edison-voting/#medtech"
         },
         {
           "type": "paragraph",
