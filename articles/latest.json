@@ -3,7 +3,11 @@
     {
       "title": "Edison Award 2024",
       "description": "Aktuell sind wir für den Edison Award 2024 in den Kategorien Med-Tech und Junior nominiert. Wir freuen uns über die Nominierung und hoffen auf eine erfolgreiche Teilnahme.",
-      "image": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/articles/edison-junior.webp"
+      "image": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/articles/edison/edison-junior-team.webp",
+      "link": {
+        "text": "Mehr erfahren",
+        "link": "/edison"
+      }
     },
     {
       "title": "Startup Live 2023",
