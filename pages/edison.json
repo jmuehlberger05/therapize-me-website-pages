@@ -1,9 +1,9 @@
 {
   "title": "Edison. Der Preis",
-  "description": "Ein ganzheitliches Ökosystem für Physiotherapie - Die TherapizeMe Patienten-App",
+  "description": "Wir sind beim Oberösterreichs Preis für Ideen dabei und brauchen deine Stimme!",
   "heroImage": {
-    "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/Patient-App-Header-Image.webp",
-    "alt": "Eine Übersicht der TherapizeMe Patienten-App"
+    "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/articles/edison/cover.webp",
+    "alt": "Cover-Image mit nominierten Kategorien"
   },
   "sections": [
     {
@@ -12,52 +12,21 @@
       "content": [
         {
           "type": "paragraph",
-          "text": "Die TherapizeMe Patienten-App wurde entwickelt, um den Therapieprozess zu digitalisieren und die Patienten aktiv in ihre Heilung einzubeziehen. Patienten können über die App auf personalisierte Übungen, Fortschrittsverfolgung und direkte Kommunikation mit ihren Therapeuten zugreifen."
+          "text": "Wir freuen uns sehr beim 15. Jubiäum des Edison Awards dabei sein zu dürfen. Dabei sind wir sogar gleich in 2 Kategorien nominiert. Wir sind in der Kategorie 'Junior' und 'Med Tech' vertreten. Wir würden uns sehr freuen, wenn du für uns abstimmen würdest."
+        },
+        {
+          "type": "button",
+          "text": "Abstimmung Junior",
+          "url": "https://www.tech2b.at/edison-voting/#voting"
+        },
+        {
+          "type": "button",
+          "text": "Abstimmung Med Tech",
+          "url": "https://www.tech2b.at/edison-voting/#medtech"
         },
         {
           "type": "paragraph",
-          "text": "Patienten werden außerdem Spielerisch mittels eines Reward-Systems motiviert, ihre Übungen regelmäßig durchzuführen. Die App bietet eine intuitive Benutzeroberfläche und ermöglicht eine einfache Integration in den Alltag der Patienten."
-        },
-        {
-          "type": "image",
-          "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/Patienten-App-Funktionen.webp",
-          "alt": "Ein Überblick der Funktionen der TherapizeMe Patienten-App"
-        }
-      ]
-    },
-    {
-      "title": "Vorteile der Patienten-App",
-      "id": "vorteile-der-patienten-app",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Die Patienten-App ist eine Erweiterung des TherapizeMe-Ökosystems und bietet eine Vielzahl einzigartiger Features, die den Therapieprozess optimieren und die Patienten aktiv in ihre Genesung einbeziehen."
-        },
-        {
-          "type": "cards",
-          "cards": [
-            {
-              "title": "Übungen",
-              "text": "Personalisierte Übungen, die auf den individuellen Therapieplan abgestimmt sind."
-            },
-            {
-              "title": "Feedback",
-              "text": "Direktes Feedback zu den durchgeführten Übungen und dem Fortschritt."
-            },
-            {
-              "title": "Kommunikation",
-              "text": "Sichere Chat-Funktion für den direkten Austausch mit dem Therapeuten."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Eine sichere Chat-Funktion ermöglicht die direkte Kommunikation zwischen Therapeuten und Patienten, und wichtige Dokumente können digital übermittelt werden."
-        },
-        {
-          "type": "image",
-          "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/Patienten-App Screens.webp",
-          "alt": "Übungsanleitung und Chat-Funktion der TherapizeMe Patienten-App"
+          "text": "Eine Abstimmung ist 1x täglich möglich und endet am 24.6.2024 um 23:59 Uhr"
         }
       ]
     }
