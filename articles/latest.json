@@ -1,6 +1,11 @@
 {
   "content": [
     {
+      "title": "Edison Award 2024",
+      "description": "Aktuell sind wir für den Edison Award 2024 in den Kategorien Med-Tech und Junior nominiert. Wir freuen uns über die Nominierung und hoffen auf eine erfolgreiche Teilnahme.",
+      "image": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/articles/edison-junior.webp"
+    },
+    {
       "title": "Startup Live 2023",
       "description": "Wir haben bei Startup Live Linz 2023 den 3. Platz bei den Pitchpräsentationen belegt.",
       "image": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/articles/startup-live.webp",
@@ -16,15 +21,6 @@
       "link": {
         "text": "Mehr erfahren",
         "link": "https://ideen-innovation.linz.at/challenges/idea/bcbb649f-ea31-4188-be1a-077d8ea395d7/7/8"
-      }
-    },
-    {
-      "title": "UpdateSocial 2023",
-      "description": "TherapizeMe ist Teil des Linz Hackt 2023 Projekts und wird von der Stadt Linz unterstützt.",
-      "image": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/images/articles/updatesocial.webp",
-      "link": {
-        "text": "Mehr erfahren",
-        "link": "https://updatesocial.org/anerkennungspreise/"
       }
     }
   ]
