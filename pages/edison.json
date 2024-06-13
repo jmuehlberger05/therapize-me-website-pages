@@ -27,6 +27,11 @@
         {
           "type": "paragraph",
           "text": "Eine Abstimmung ist 1x täglich möglich und endet am 24.6.2024 um 23:59 Uhr"
+        },
+        {
+          "type": "video",
+          "src": "https://raw.githubusercontent.com/jmuehlberger05/therapize-me-website-pages/main/videos/edison-medtech-2024.webm",
+          "alt": "Video über die Nominierung in der Kategorie Med Tech"
         }
       ]
     }
