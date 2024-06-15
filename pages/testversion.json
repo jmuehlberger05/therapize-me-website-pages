@@ -1,0 +1,53 @@
+{
+  "title": "TherapizeMe Testversion",
+  "description": "Sie nutzen die Testversion von TherapizeMe. Diese Datenschutzerklärung informiert Sie über die Verarbeitung Ihrer Daten.",
+
+  "sections": [
+    {
+      "title": "Sicherheit",
+      "id": "sicherheit",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Bei TherapizeMe nehmen wir den Schutz Ihrer persönlichen Daten sehr ernst. In der aktuellen Testversion können wir Ihnen leider noch keine volle Datensicherheit garantieren. Wir arbeiten jedoch stetig daran, unsere Plattform zu verbessern und Ihre Daten zu schützen."
+        },
+        {
+          "type": "paragraph",
+          "text": "TherapizeMe haftet nicht für Schäden und Datenverluste, die durch die Nutzung der Testversion entstehen."
+        },
+        {
+          "type": "paragraph",
+          "text": "Für die Datenschutzerklärung der finalen Version von TherapizeMe besuchen Sie bitte folgenden Artikel:"
+        },
+        {
+          "type": "button",
+          "label": "Datenschutzerklärung",
+          "href": "/privacy"
+        }
+      ]
+    },
+    {
+      "title": "Auftretende Fehler",
+      "id": "auftretende-fehler",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Falls Sie während der Nutzung der Testversion auf Fehler stoßen, bitten wir Sie, uns diese zu melden. Wir sind stets bemüht, Fehler schnellstmöglich zu beheben und die Sicherheit unserer Plattform zu gewährleisten."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bitte senden Sie ihre Fehlermeldungen und Anregungen an"
+        },
+        {
+          "type": "button",
+          "label": "Kontakt",
+          "href": "mailto:jakob@therapize-me.at"
+        },
+        {
+          "type": "paragraph",
+          "text": "Vielen Dank für Ihre Mithilfe und Ihr Verständnis."
+        }
+      ]
+    }
+  ]
+}
